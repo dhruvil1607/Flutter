@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439065378034",
+    "firebase_url": "https://esp32ultrasonic-rudra-default-rtdb.firebaseio.com",
+    "project_id": "esp32ultrasonic-rudra",
+    "storage_bucket": "esp32ultrasonic-rudra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439065378034:android:1094905abf9fbf96aee46b",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439065378034-vamjhefamvo5p2ku19n78lqjt2hqg49v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled1",
+            "certificate_hash": "48e5d122964d2f58b944e6ad9bef43eb0fb373c2"
+          }
+        },
+        {
+          "client_id": "439065378034-q5ufm8jo46g83njuj1t4p67h384ol8gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1Uj0kPvSIlDFDqnMHoox099V9QjdnMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439065378034-q5ufm8jo46g83njuj1t4p67h384ol8gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
